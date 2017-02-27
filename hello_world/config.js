@@ -4,7 +4,7 @@ module.exports = {
 		cpu: '',
 		memory: ''
 	},
-	serviceVersion: 1,
+	serviceVersion: 2,
 	serviceName: "helloworld",
 	serviceGroup: "SOAJS Example Service",
 	requestTimeout: 30,
